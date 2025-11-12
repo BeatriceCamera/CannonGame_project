@@ -72,4 +72,4 @@ It highlights principles of **software modularity, debugging, and physics modeli
 
 ## Report
 For full design, implementation, and detailed module explanation, see the [Detailed Report – Cannon Game](https://github.com/beatricecamera/CannonGame_project/raw/main/CannonGame_detailed_report.pdf).
-For a visual summary of the game’s design, architecture, and core mechanics, see the [Presentation – Cannon Game](./CannonGame_detailed_presentation.pdf).
+For a visual summary of the game’s design, architecture, and core mechanics, see the [Presentation – Cannon Game](https://github.com/beatricecamera/CannonGame_project/raw/main/CannonGame_detailed_presentation.pdf).
