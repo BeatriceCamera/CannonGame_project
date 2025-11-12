@@ -1,0 +1,35 @@
+Nickname: Beatrice, Score: 70, Level: 2
+Nickname: b, Score: 50, Level: 1
+Nickname: GHI, Score: 50, Level: 1
+Nickname: Beatrice, Score: 0, Level: 1
+Nickname: b, Score: 0, Level: 1
+Nickname: Giuli, Score: 20, Level: 1
+Nickname: g, Score: 0, Level: 1
+Nickname: Giulia, Score: 150, WINNER
+Nickname: LMN, Score: 120, Level: 3
+Nickname: OPQ, Score: 35, Level: 2
+Nickname: OPQ, Score: 70, Level: 2
+Nickname: Eleonora, Score: 150, WINNER
+Nickname: Beatrice, Score: 150, WINNER
+Nickname: b, Score: 80, Level: 2
+Nickname: b, Score: 10, Level: 1
+Nickname: Bea, Score: 55, Level: 2
+Nickname: b, Score: 130, WINNER
+Nickname: b, Score: 150, WINNER
+Nickname: top, Score: 115, WINNER
+Nickname: b, Score: 140, WINNER
+Nickname: b, Score: 30, Level: 2
+Nickname: b, Score: 80, Level: 3
+Nickname: b, Score: 70, Level: 3
+Nickname: b, Score: -15, Level: 1
+Nickname: b, Score: 95, WINNER
+Nickname: b, Score: 40, Level: 2
+Nickname: b, Score: 30, Level: 1
+Nickname: sara, Score: 115, WINNER
+Nickname: bea, Score: 80, Level: 2
+Nickname: Teacher, Score: 55, Level: 3
+Nickname: Enrica, Score: 100, WINNER
+Nickname: laci, Score: 95, WINNER
+Nickname: kiki, Score: 110, Level: 3
+Nickname: cocco, Score: 20, Level: 1
+Nickname: coco, Score: 140, WINNER
